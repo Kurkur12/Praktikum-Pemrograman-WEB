@@ -1,0 +1,11 @@
+{
+  "nama": "Ronaldo",
+  "umur": 38,
+  "mahasiswa": false,
+  "hobi": ["Sepak Bola", "Berenang", "Olahraga"],
+  "alamat": {
+    "jalan": "Jl. Sudirman No. 123",
+    "kota": "Jakarta"
+  },
+  "catatan": null
+}

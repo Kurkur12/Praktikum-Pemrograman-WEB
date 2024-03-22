@@ -1,0 +1,44 @@
+{
+  "mahasiswa": {
+    "namaLengkap": "Kurniawan BAgaskara",
+    "alamat": "Surakarta",
+    "prodi": "Informatika",
+    "usia": 19,
+    "lulus": false,
+    "mataKuliah": [
+      {
+        "nama": "Algoritma dan Struktur Data",
+        "jumlah_sks": 3,
+        "jadwal_kuliah": {
+          "hari": "Senin",
+          "jam_mulai": "08:00",
+          "jam_selesai": "10:30"
+        },
+        "dosen_pengampu": "Endang Wahyu",
+        "bab_materi": ["Pengenalan Algoritma", "Struktur Data Dasar", "Analisis Kompleksitas Algoritma"]
+      },
+      {
+        "nama": "Basis Data",
+        "jumlah_sks": 4,
+        "jadwal_kuliah": {
+          "hari": "Rabu",
+          "jam_mulai": "13:30",
+          "jam_selesai": "16:00"
+        },
+        "dosen_pengampu": "Dimas Aryo",
+        "bab_materi": ["Konsep Basis Data", "Model Data Relasional", "SQL"]
+      },
+      {
+        "nama": "Pemrograman Web",
+        "jumlah_sks": 3,
+        "jadwal_kuliah": {
+          "hari": "Selasa",
+          "jam_mulai": "10:00",
+          "jam_selesai": "12:30"
+        },
+        "dosen_pengampu": "Widi Widayat",
+        "bab_materi": ["HTML", "CSS", "JavaScript", "Framework Web"]
+      }
+    ]
+  }
+}

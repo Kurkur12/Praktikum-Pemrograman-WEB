@@ -1,0 +1,17 @@
+{
+    "namaLengkap": "Kurniawan Bagaskara",
+    "alamat": "Surakarta",
+    "prodi": "Informatika",
+    "usia": 19,
+    "lulus": false,
+    "mataKuliah": [
+      "Pemrograman Website",
+      "Algoritma Pemrograman",
+      "Kapita Selekta"
+    ],
+    "nilai": {
+      "Aljabar Linier": "AB",
+      "Logika Matematika": "A"
+    }
+  }
+  
